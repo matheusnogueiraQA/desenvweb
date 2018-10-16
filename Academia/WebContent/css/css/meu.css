@@ -1,0 +1,63 @@
+body{
+    background-color: aliceblue;
+}
+
+.h5{
+    margin-left: 2%;
+}
+
+
+.linha{
+    
+    background: blue;
+    padding-bottom: 30px
+}
+
+.menuLateral{
+   background: white;
+}
+
+li a{
+	line-height: 22px;
+    margin: 0;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+a:link{
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #c0c0c0;
+}
+
+a:visited {
+	color: 
+    text-decoration: none;
+	background-color: #c0c0c0;
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: black;
+}
+
+
+	.row {
+        margin-bottom: 15px;
+    }
+	.header{
+        min-height: 90px;
+    }
+    .footer{
+        min-height: 60px;
+    }
+  
+    .sidebar{
+        background: #dbdfe5;
+    }
+    .content{
+        background: #b4bac0;
+    }
+    .sidebar, .content{
+        min-height: 300px;
+    }
